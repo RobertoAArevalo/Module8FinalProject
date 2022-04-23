@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_custom_list_view.xml" value="0.2011144883485309" />
+        <entry key="app/src/main/res/layout/activity_google.xml" value="0.24320652173913043" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3131868131868132" />
+        <entry key="app/src/main/res/layout/activity_video.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/ch12.xml" value="0.30027173913043476" />
+        <entry key="app/src/main/res/layout/ch12_1.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch12_2.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch12_3.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch13.xml" value="0.16717325227963525" />
+        <entry key="app/src/main/res/layout/ch13_1.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch13_2.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch13_3.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch17.xml" value="0.25769927536231885" />
+        <entry key="app/src/main/res/layout/ch17_1.xml" value="0.20277777777777778" />
+        <entry key="app/src/main/res/layout/ch17_2.xml" value="0.20277777777777778" />
+        <entry key="app/src/main/res/layout/ch17_3.xml" value="0.20277777777777778" />
+        <entry key="app/src/main/res/layout/ch18.xml" value="0.3899057962249477" />
+        <entry key="app/src/main/res/layout/ch18_1.xml" value="0.20277777777777778" />
+        <entry key="app/src/main/res/layout/ch18_2.xml" value="0.20277777777777778" />
+        <entry key="app/src/main/res/layout/ch18_3.xml" value="0.20277777777777778" />
+        <entry key="app/src/main/res/layout/ch19.xml" value="0.22150421142578125" />
+        <entry key="app/src/main/res/layout/ch19_1.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch19_2.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch19_3.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch1_initializing.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch1_oop.xml" value="0.27068328857421875" />
+        <entry key="app/src/main/res/layout/ch1_variables.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch2.xml" value="0.3537200927734375" />
+        <entry key="app/src/main/res/layout/ch2_imp.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch2_impo.xml" value="0.16717325227963525" />
+        <entry key="app/src/main/res/layout/ch2_packages.xml" value="0.16717325227963525" />
+        <entry key="app/src/main/res/layout/ch2_sout.xml" value="0.16717325227963525" />
+        <entry key="app/src/main/res/layout/ch3.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/ch3_branching.xml" value="0.16717325227963525" />
+        <entry key="app/src/main/res/layout/ch3_conop.xml" value="0.24365942028985507" />
+        <entry key="app/src/main/res/layout/ch3_orop.xml" value="0.24365942028985507" />
+        <entry key="app/src/main/res/layout/ch4.xml" value="0.37459716796875" />
+        <entry key="app/src/main/res/layout/ch4_1.xml" value="0.24365942028985507" />
+        <entry key="app/src/main/res/layout/ch4_2.xml" value="0.16717325227963525" />
+        <entry key="app/src/main/res/layout/ch4_3.xml" value="0.16717325227963525" />
+        <entry key="app/src/main/res/layout/ch5.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/ch5_1.xml" value="0.16717325227963525" />
+        <entry key="app/src/main/res/layout/ch5_2.xml" value="0.16717325227963525" />
+        <entry key="app/src/main/res/layout/ch5_3.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch6.xml" value="0.2796904190726902" />
+        <entry key="app/src/main/res/layout/ch6_1.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch6_2.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch6_3.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch7.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/ch7_1.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch7_2.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch7_3.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch8.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/ch8_1.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch8_2.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/ch8_3.xml" value="0.21453900709219859" />
+        <entry key="app/src/main/res/layout/cst300.xml" value="0.2011144883485309" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
