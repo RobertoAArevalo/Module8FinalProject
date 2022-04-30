@@ -8,9 +8,10 @@
     tools:context=".MainActivity">
 
     <LinearLayout
-        android:layout_width="390dp"
-        android:layout_height="684dp"
-        android:layout_marginStart="8dp"
+        android:layout_width="399dp"
+        android:layout_height="675dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="16dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent">
@@ -111,17 +112,6 @@
 
     </LinearLayout>
 
-    <Button
-        android:id="@+id/buttonGoogle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginBottom="4dp"
-        android:onClick="GoogleActivity"
-        android:text="Google Search"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
-
     <TextView
         android:id="@+id/textView16"
         android:layout_width="203dp"
@@ -133,6 +123,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/buttonGoogle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="GoogleActivity"
+        android:text="Google Search"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="79dp"
@@ -141,6 +140,16 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/javaimg" />
+
+    <Button
+        android:id="@+id/uML"
+        android:layout_width="153dp"
+        android:layout_height="41dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="4dp"
+        android:text="UML"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

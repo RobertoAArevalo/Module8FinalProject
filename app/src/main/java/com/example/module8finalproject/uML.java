@@ -15,49 +15,29 @@ package com.example.module8finalproject;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.webkit.WebSettings;
-import android.webkit.WebView;
-import android.webkit.WebViewClient;
 import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 /**
- * This is a class called GoogleActivity which is being called from
+ * This is a class called  which is being called from
  * MainActivity via a function, and it is extending to AppCompatActivity.
  * It will run after the button is clicked from MainActivity.java.
- * A video will start to play from
- * https://www.google.com.
+ *
  */
-public class GoogleActivity extends AppCompatActivity {
+
+
+public class uML extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         //Calls the super from onCreate.
         super.onCreate(savedInstanceState);
         //Sets content view base on the XML file.
-        setContentView(R.layout.activity_google);
+        setContentView(R.layout.uml);
 
 
-        WebView Goog = findViewById(R.id.google);
-        /**
-         * changes the settings.
-         */
-        Goog.setWebViewClient(new WebViewClient() {
-            @Override
-            public boolean shouldOverrideUrlLoading(WebView view, String url) {
-                return false;
-            }
-        });
 
-        WebSettings webSettings = Goog.getSettings();//initiate var websetting.
-        webSettings.setJavaScriptEnabled(true);
-        webSettings.setLoadWithOverviewMode(true);
-        webSettings.setUseWideViewPort(true);
-
-        //Impots : ERROR: EARLIER -> NO INTERNET. MANIFIESTO GIVE INTERNET.
-        Goog.loadUrl("https://google.com");
-
- Button backButton; // creates backButton
+        Button backButton; // creates backButton
         backButton = findViewById(R.id.back);
         // matches variable with boxes
         backButton.setOnClickListener(new View.OnClickListener() {
@@ -66,6 +46,9 @@ public class GoogleActivity extends AppCompatActivity {
                 switchScene(view, MainActivity.class);
             }
         });
+
+
+
     }
 
     /**

@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
     Button cH17ButtonEvent; //creates a variable, type button for Ch 17
     Button cH18ButtonEvent; //creates a variable, type button for Ch 18
     Button cH19ButtonEvent; //creates a variable, type button for Ch 19
+    Button uMLButtonEvent; //creates a variable, type button for UML
 
 
     @Override
@@ -196,6 +197,16 @@ public class MainActivity extends AppCompatActivity {
             //this will override the function or the onClick attribute
             public void onClick(View view) {
                 switchScene(view, cH19.class);
+            }
+        });
+
+        //Stores the button
+        uMLButtonEvent = findViewById(R.id.uML);
+        uMLButtonEvent.setOnClickListener(new View.OnClickListener() {
+            @Override
+            //this will override the function or the onClick attribute
+            public void onClick(View view) {
+                switchScene(view, uML.class);
             }
         });
 
