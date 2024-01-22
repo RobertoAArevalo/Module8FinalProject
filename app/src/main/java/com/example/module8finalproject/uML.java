@@ -22,7 +22,7 @@ import androidx.appcompat.app.AppCompatActivity;
 /**
  * This is a class called  which is being called from
  * MainActivity via a function, and it is extending to AppCompatActivity.
- * It will run after the button is clicked from MainActivity.java.
+ * It will run after the button is clicked from MainActivity.java. 4
  *
  */
 
